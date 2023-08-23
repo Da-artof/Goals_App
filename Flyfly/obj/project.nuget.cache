@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "lAIzkAIQZyv7/wSYCzJ0DIHsznKsCKKLMCEj68yLxg55jMSv3Kv5zXI6J5dSUz9G7VmNAEi7/W1aphZj5iGRsA==",
+  "success": true,
+  "projectFilePath": "/Users/danielbrooks/Projects/Flyfly/Flyfly/Flyfly/Flyfly.csproj",
+  "expectedPackageFiles": [
+    "/Users/danielbrooks/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/danielbrooks/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/danielbrooks/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/danielbrooks/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/danielbrooks/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
